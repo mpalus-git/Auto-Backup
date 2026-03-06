@@ -27,7 +27,7 @@ Zmienne konfiguracyjne znajdują się na początku pliku `backup.sh`:
 ## Instalacja
 
 ```bash
-git clone https://github.com/mpalus-git/Auto-Backup
+git clone https://github.com/mpalus-git/Auto-Backup.git
 cd auto-backup
 chmod +x backup.sh
 ```
